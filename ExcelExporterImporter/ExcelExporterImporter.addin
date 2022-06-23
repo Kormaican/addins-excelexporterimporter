@@ -2,7 +2,7 @@
 <RevitAddIns>
   <AddIn Type="Application">
     <Name>Excel Exporter-Importer</Name>
-    <Assembly>C:\Users\aalbanese\source\repos\addins-excelexporterimporter\ExcelExporterImporter\bin\Debug\net48\ExcelExporterImporter.dll</Assembly>    
+    <Assembly>bin\Debug\net48\ExcelExporterImporter.dll</Assembly>    
     <AddInId>5C4B1590-780E-4732-A080-732AE5AF249F</AddInId>
     <FullClassName>ExcelExporterImporter.Button</FullClassName>
     <VendorId>BIMO</VendorId>
