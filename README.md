@@ -2,6 +2,8 @@
 
 > [Aller à la version française (à la fin)](#description-version-française)
 
+> Adam's note: The zip file can be extracted to your addins folder for Revit 2020 and later. The addin should work normally. 
+
 ## Wiki
 
 In the [wiki](https://github.com/bimone/addins-excelexporterimporter/wiki) section, you will find most of the information from our documentation regarding the Import Export Excel Addin
